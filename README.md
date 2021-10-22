@@ -1,0 +1,1 @@
+## test of npm package
